@@ -62,32 +62,6 @@ Contributing
 	- Adding unit tests
 	- Adding input validation and error handling
 
-Suggested local git steps before submitting
-
-```bash
-git add README.md docs/screenshots/*
-git commit -m "Add complete README and screenshot guidance"
-git push origin main
-```
-
-License & Contact
-- Replace this section with your chosen license or keep it simple for course submission. For questions or assistance, add your name and email here.
-
-Adding screenshots
-
-- Create the `docs/screenshots` folder at the project root and add image files using the filenames listed below.
-- Use Markdown image tags to include the images in this README (examples shown above).
-
-Committing and pushing
-
-Before submitting, run:
-
-```bash
-git add README.md docs/screenshots/*
-git commit -m "Add complete README and screenshot guidance"
-git push origin main
-```
-
 Screenshot headings:
 
 - **Welcome / Movies display**
