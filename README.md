@@ -1,5 +1,5 @@
 
-**Cinema Booking System — ITP Semester 1 Final Project**
+**Cinema Booking System — Semester 1 Final ITP Project**
 
 Overview
 - A simple console-based Cinema Booking System written in C++ for an introductory ITP course final project. The program lets users view movies and showtimes, select seats, and save booking information to disk.
@@ -51,17 +51,6 @@ Usage
 	- Select a showtime and seats
 	- Confirm and save a booking (output files written to `output/`)
 
-Screenshots — where to add them
-- Recommended screenshots folder: `docs/screenshots` (create this folder at the project root).
-- Suggested filenames: `booking-1.png`, `booking-2.png`, `seats-1.png`, etc.
-- To include screenshots in this README, add the image files to `docs/screenshots` then insert links or Markdown image tags. Example Markdown:
-
-```markdown
-![Booking screen](docs/screenshots/booking-1.png)
-```
-
-- If you prefer the `output/` directory, you may also place images in `output/screenshots`, but `docs/screenshots` keeps documentation separate from runtime output.
-
 Project structure
 - [main.cpp](main.cpp) — program source (single-file console app).
 - [README.md](README.md) — this file.
@@ -99,9 +88,6 @@ git commit -m "Add complete README and screenshot guidance"
 git push origin main
 ```
 
-License & Contact
-- Replace this section with your chosen license or keep it simple for course submission. For questions, add your name and email here.
-
 Screenshot headings:
 
 - **Welcome / Movies display**
@@ -128,3 +114,6 @@ Screenshot headings:
 
 	![Receipt generation](docs/screenshots/receipt-generation.png)
 
+
+License & Contact
+- 
