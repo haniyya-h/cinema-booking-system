@@ -1,5 +1,3 @@
-# cinema-booking-system
-
 
 **Cinema Booking System — ITP Semester 1 Final Project**
 
@@ -86,39 +84,47 @@ git push origin main
 License & Contact
 - Replace this section with your chosen license or keep it simple for course submission. For questions or assistance, add your name and email here.
 
-If you want, I can also:
-- create the `docs/screenshots` folder and add a placeholder image file
-- make the git commit and push to your remote (I will need your confirmation and remote configured)
+Adding screenshots
 
-Screenshot headings (add the images with these filenames in `docs/screenshots`):
+- Create the `docs/screenshots` folder at the project root and add image files using the filenames listed below.
+- Use Markdown image tags to include the images in this README (examples shown above).
+
+Committing and pushing
+
+Before submitting, run:
+
+```bash
+git add README.md docs/screenshots/*
+git commit -m "Add complete README and screenshot guidance"
+git push origin main
+```
+
+License & Contact
+- Replace this section with your chosen license or keep it simple for course submission. For questions, add your name and email here.
+
+Screenshot headings:
 
 - **Welcome / Movies display**
 
-	![Welcome / Movies display](<img width="598" height="280" alt="image" src="https://github.com/user-attachments/assets/eadf8a73-0baf-4b44-861e-0e6cbfd9e783" />
-)
+	![Welcome / Movies display](docs/screenshots/welcome-movies.png)
 
 - **Showtime selection screen**
 
-	![Showtime selection screen](<img width="313" height="185" alt="image" src="https://github.com/user-attachments/assets/f06a4c1a-83c1-40d7-8785-9feb79e43cbf" />
-)
+	![Showtime selection screen](docs/screenshots/showtime-selection.png)
 
 - **Menu Display**
 
-	![Menu Display](<img width="297" height="181" alt="image" src="https://github.com/user-attachments/assets/ba93da49-a43f-4933-b7fe-0c08760442f9" />
-)
+	![Menu Display](docs/screenshots/menu-display.png)
 
 - **Seat Layout showing available seats**
 
-	![Seat Layout showing available seats](<img width="409" height="185" alt="image" src="https://github.com/user-attachments/assets/02e0b544-c828-4500-b821-7adb0a315907" />
-)
+	![Seat Layout showing available seats](docs/screenshots/seat-layout.png)
 
 - **Booking confirmation messages**
 
-	![Booking confirmation messages]<img width="415" height="487" alt="image" src="https://github.com/user-attachments/assets/2b0cdc13-7f23-485e-88d4-6067af1758db" />
-)
+	![Booking confirmation messages](docs/screenshots/booking-confirmation.png)
 
 - **Receipt generation**
 
-	![Receipt generation](<img width="487" height="478" alt="image" src="https://github.com/user-attachments/assets/b96c4e1f-94c2-417b-84e8-969122c0744c" />
-)
+	![Receipt generation](docs/screenshots/receipt-generation.png)
 
